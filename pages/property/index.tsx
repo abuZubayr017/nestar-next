@@ -194,7 +194,7 @@ const PropertyList: NextPage = ({ initialInput, ...props }: any) => {
 											shape="circular"
 											color="primary"
 										/>
-									</Stack>
+									</Stack> 
 								)}
 
 								{properties.length !== 0 && (
