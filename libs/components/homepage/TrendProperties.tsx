@@ -43,9 +43,6 @@ const TrendProperties = (props: TrendPropertiesProps) => {
 	});
 
 	/** HANDLERS **/
-
-	
-
 	const likePropertyHandler = async (user: T, id: string) => {
 		try {
 			if (!id) return;
